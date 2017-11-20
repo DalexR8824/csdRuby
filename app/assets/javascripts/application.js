@@ -10,17 +10,8 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require cable
-//= require App
-//= require jquery-1.11.0.min
-//= require jquery-migrate-1.2.1.min
-//= require BootstrapFixed
-//= require bootstrap.min
-//= require spin.min
-//= require jquery.slimscroll.min
-//= require Demo
+//= require gentelella
+//= require gentelella-custom
 //= require rails-ujs
 //= require turbolinks
 //= require_tree .
-
-
